@@ -1,7 +1,6 @@
 # 🎓 Student & Course Manager
 
-A Spring Boot application to manage student enrollments and course assignments.  
-Designed using a clean MVC architecture with proper data handling and validation.
+This project is a simple Spring Boot application I built to manage student enrollments and course details using MVC architecture.
 
 ---
 
@@ -92,3 +91,9 @@ mvn spring-boot:run
 
 ### 📌 Note
 This project was built as part of a database application assignment.
+
+## 👩‍💻 Author
+Akanksha Kasula
+
+## 📌 About
+This project was developed as part of my assignment to understand Spring Boot, MVC architecture, and database handling.
