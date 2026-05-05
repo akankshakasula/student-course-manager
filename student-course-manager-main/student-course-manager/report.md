@@ -1,10 +1,5 @@
 # Building Database Applications - Assignment Report
 
-**Student Name:** Ayush Kumar
-**Student Id**: 2024EB01153
-**Code URL**  - https://code.xeze.org/cs/student-course-manager
-**Live Link** - https://student-course-manager-271230242037.asia-south1.run.app/
-
 ---
 
 ## 1. Introduction
