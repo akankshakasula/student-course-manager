@@ -59,7 +59,7 @@ erDiagram
 1. **Clone the repository:**
 
    ```bash
-   git clone https://code.xeze.org/cs/student-course-manager
+   git clone https://github.com/akankshakasula/student-course-manager
    ```
 2. **Run with Maven:**
 
